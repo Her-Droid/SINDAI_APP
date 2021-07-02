@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "615713862441",
+    "firebase_url": "https://sindaiapp-default-rtdb.firebaseio.com",
     "project_id": "sindaiapp",
     "storage_bucket": "sindaiapp.appspot.com"
   },
