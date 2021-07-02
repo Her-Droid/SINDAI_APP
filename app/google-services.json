@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615713862441",
+    "project_id": "sindaiapp",
+    "storage_bucket": "sindaiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615713862441:android:6746afbf3e8e7476f5bd38",
+        "android_client_info": {
+          "package_name": "id.herdroid.sindai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615713862441-ae1g6plu39c4m68sa5ee75bpegi7dg0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtWq3bDTGH4DK_W2TBr0uwDhajmbDSXhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615713862441-ae1g6plu39c4m68sa5ee75bpegi7dg0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
